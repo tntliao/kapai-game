@@ -1,0 +1,176 @@
+{   
+	"easycom": {
+			"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/mgshop/mgshop",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/extend/extend",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/new/new",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/team/team",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/market/market",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/auction/auction",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/mysale/mysale",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/backpack/backpack",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/upgrade/upgrade",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/sjboss/sjboss",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/bosslevel/bosslevel",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/pk/pk",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/salelist/salelist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/buylist/buylist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/pmlist/pmlist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/jmlist/jmlist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/pvelist/pvelist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/sjbosslist/sjbosslist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/pkyq/pkyq",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/pklist/pklist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/uplist/uplist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/zhiya/zhiya",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/zichan/zichan",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/pkjilu/pkjilu",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/zylist/zylist",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/mingxi/mingxi",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    },{
+			"path": "pages/zhitui/zhitui",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+	    }
+        ,{
+            "path" : "pages/zhitui/secondLevel/secondLevel",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/zhitui/three/three",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "cl",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4",
+			"titleNView":false
+		}
+	}
+}
